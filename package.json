@@ -1,0 +1,17 @@
+{
+  "name": "binary-search-function",
+  "version": "1.0.0",
+  "description": "binary search algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "binary",
+    "search",
+    "searching",
+    "testing"
+  ],
+  "author": "Adarsh Baghel",
+  "license": "ISC"
+}
